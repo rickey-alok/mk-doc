@@ -1,5 +1,5 @@
 site_name: API-Go2Doc
-site_url: https://example.com/
+# site_url: https://example.com/
 repo_url: https://github.com/rickey-alok/mk-doc
 repo_name: rickey-alok/mk-doc
 theme:
